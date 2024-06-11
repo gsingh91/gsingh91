@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working as a Senior Solutions Engineer with [Posit](https://posit.co/)
+🔭 I’m currently working as a Sales Engineer with [Plotly](https://plotly.com/)
